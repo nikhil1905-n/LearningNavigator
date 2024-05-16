@@ -1,5 +1,5 @@
 package com.nikhiln.learningNavigator.service;
 
-public class LearningNavigatorServiceImpl {
+public class ExamServiceImpl {
     
 }

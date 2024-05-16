@@ -1,5 +1,5 @@
 package com.nikhiln.learningNavigator.repository;
 
-public interface LearningNavigatorRepository {
+public interface StudentRepository {
     
 }
