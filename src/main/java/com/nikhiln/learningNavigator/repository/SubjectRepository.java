@@ -1,5 +1,9 @@
 package com.nikhiln.learningNavigator.repository;
 
-public interface SubjectRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.nikhiln.learningNavigator.entity.Subject;
+
+public interface SubjectRepository extends JpaRepository<Subject, Long> {
     
 }
