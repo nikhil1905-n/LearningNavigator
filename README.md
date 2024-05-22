@@ -40,6 +40,8 @@ The Exam Enrollment API Service is a RESTful API developed using Spring Boot for
   
 - **Easter Egg Feature**
   <!-- - `GET /hidden-feature/{number}` - Generate a fact about the number passed as the path parameter. -->
+  - In addition to the standard functionality, our application includes an Easter egg feature that generates random facts about numbers using the Numbers API. However, this feature is hidden and requires users to discover the hidden endpoint by exploring the codebase. Once you've identified the hidden endpoint, you can send a GET request to that endpoint to generate random facts about numbers from the Numbers API.
+
 
 ## Implemented Code
 
