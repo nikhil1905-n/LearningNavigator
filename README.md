@@ -90,8 +90,6 @@ The Exam Enrollment API Service is a RESTful API developed using Spring Boot for
 
 1. Clone the repository.
 2. Configure MySQL database settings in `application.properties`.
-3. Run the application.
+3. Run the application using `./gradlew bootrun`.
 4. Use endpoints to perform CRUD operations on students, subjects, and exams.
 5. Access the Easter egg feature endpoint to generate random facts about numbers.
-
-
