@@ -39,7 +39,7 @@ The Exam Enrollment API Service is a RESTful API developed using Spring Boot for
   - `DELETE /exams/{id}` - Delete an exam by ID.
   
 - **Easter Egg Feature**
-  - `GET /hidden-feature/{number}` - Generate a fact about the number passed as the path parameter.
+  <!-- - `GET /hidden-feature/{number}` - Generate a fact about the number passed as the path parameter. -->
 
 ## Implemented Code
 
