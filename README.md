@@ -14,6 +14,14 @@ The Exam Enrollment API Service is a RESTful API developed using Spring Boot for
 - Basic unit tests using MockMvc and Mockito
 - Easter Egg feature providing random facts about numbers
 
+## Architecture
+
+The backend is implemented using a layered architecture with the following components:
+
+* **Controller:** Handles incoming requests and delegates them to the service layer.
+* **Service:** Handles business logic and interacts with the repository layer.
+* **Repository:** Provides access to the database (MySQL in this case).
+
 ## Endpoints
 
 - **Student Endpoints**
