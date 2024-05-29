@@ -90,7 +90,7 @@ The Exam Enrollment API Service is a RESTful API developed using Spring Boot for
 
 ## Setup and Usage
 
-1. Clone the repository.
+1. Clone the repository `git clone https://github.com/nikhil1905-n/LearningNavigator.git`.
 2. Configure MySQL database settings in `application.properties`.
 3. Run the application using `./gradlew bootrun`.
 4. Use endpoints to perform CRUD operations on students, subjects, and exams.
